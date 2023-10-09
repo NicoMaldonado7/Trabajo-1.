@@ -1,0 +1,94 @@
+body {
+    
+    background-color:#273238
+}
+header {
+    background-color: white;
+    text-align: center;
+    font-size: 3.1rem;   
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;  
+    color: #698593;
+    letter-spacing: 2px;
+    margin-top: 40px;
+    margin-bottom: 40px; 
+}
+.img-01 {
+    border: 3px solid;color: #e6ccc2;
+}
+.img-02 {
+    border: 3px solid;color: #a2c2c9;
+}
+.img-03 {
+    border:3px solid;color: #babcc0;
+}
+.img-04 {
+    border:  3px solid;color: #8d949f;
+}
+.img-05 {
+    border: 3px solid;color: #b4b3ac;
+}
+
+p{
+    color:rgb(200, 200, 200);
+    text-align: justify;
+    font-family: 'lucida grande';
+    font-size: 13px;
+}
+
+
+h1 {
+    
+    font-family:'Lucida Sans Unicode','lucida grande', sans-serif;
+    color: #E4CFC1;
+    font-weight:bold;
+    font-size: 24px;
+    font-style: italic;
+    text-transform: uppercase;
+    letter-spacing:2px ;
+    
+}
+
+   
+
+h2 {
+        font-family:'Lucida Sans Unicode','lucida grande', sans-serif;
+        color: #A2C2CB;
+        font-weight:bold;
+        font-size: 24px;
+        font-style: italic;
+        text-transform: uppercase;
+        letter-spacing:2px ;
+        
+    
+}
+h3 {
+    font-family:'Lucida Sans Unicode','lucida grande', sans-serif;
+        color: #bcbfc1;
+        font-weight:bold;
+        font-size: 24px;
+        font-style: italic;
+        text-transform: uppercase;
+        letter-spacing:2px ;
+        
+}
+h4 {
+        font-family:'Lucida Sans Unicode','lucida grande', sans-serif;
+        color: #8e93a1;
+        font-weight:bold;
+        font-size: 24px;
+        font-style: italic;
+        text-transform: uppercase;
+        letter-spacing:2px ;
+}
+h5 {
+    font-family:'Lucida Sans Unicode','lucida grande', sans-serif;
+        color: #aba497;
+        font-weight: bold;
+        font-size: 24px;
+        font-style: italic;
+        text-transform: uppercase;
+        letter-spacing:2px ;
+}
+
+
+
